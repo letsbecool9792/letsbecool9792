@@ -1,5 +1,5 @@
 # About Me:
-Building a full-stack web app with Django and React, aimed at anime enthusiasts.<br>Love jumping into hackathons and tech events; always looking for the next big challenge.<br>Game developer with a passion for Game Jams; have published solo projects that push creative boundaries.
+Building a full-stack web app with Django and React, aimed at anime enthusiasts.<br>Love jumping into hackathons and tech events; always looking for the next big challenge.<br>Game developer with a passion for Game Jams; have published several projects that push creative boundaries.
 
 Check out my [games!](https://letsbecool.itch.io)
 
